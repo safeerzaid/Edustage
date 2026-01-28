@@ -2,7 +2,7 @@ Edustage:
 
 Responsive HTML & CSS Education Platform
 
-A fully responsive front-end project built using HTML5, CSS3, and Flexbox/Grid, featuring multiple pages for an educational platform. Designed to be clean, modern, and user-friendly.
+And its fuly responsive front-end project built using HTML5, CSS3, and Flexbox/Grid, featuring multiple pages for an educational platform. Designed to be clean, modern, and user-friendly.
 
 ⸻
 
@@ -28,3 +28,4 @@ A fully responsive front-end project built using HTML5, CSS3, and Flexbox/Grid, 
 	•	HTML5 – Semantic markup for accessibility and SEO
 	•	CSS3 – Flexbox/Grid layout, transitions, hover effects
 	•	Responsive Design – Mobile-first approach using media queries
+	
